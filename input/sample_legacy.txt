@@ -1,0 +1,5 @@
+2026-06-14 22:00:00 INFO Nightly job started
+2026-06-14 22:01:05 WARNING Memory usage is high
+2026-06-14 22:02:30 ERROR Failed to write output file: permission denied
+2026-06-14 22:05:10 ERROR No space left on disk
+2026-06-14 22:10:00 INFO Nightly job finished

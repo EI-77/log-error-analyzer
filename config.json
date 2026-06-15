@@ -1,0 +1,59 @@
+{
+  "target_extensions": [
+    ".log",
+    ".txt"
+  ],
+  "target_levels": [
+    "WARNING",
+    "ERROR",
+    "CRITICAL"
+  ],
+  "datetime_format": "%Y-%m-%d %H:%M:%S",
+  "output_file": "log_analysis_report.xlsx",
+  "category_keywords": {
+    "database": [
+      "database",
+      "db",
+      "sql",
+      "mysql",
+      "postgres"
+    ],
+    "timeout": [
+      "timeout",
+      "timed out"
+    ],
+    "permission": [
+      "permission",
+      "denied",
+      "unauthorized",
+      "forbidden"
+    ],
+    "not_found": [
+      "not found",
+      "missing",
+      "404"
+    ],
+    "memory": [
+      "memory",
+      "out of memory",
+      "oom"
+    ],
+    "connection": [
+      "connection",
+      "connect",
+      "network",
+      "socket"
+    ],
+    "api": [
+      "api",
+      "http",
+      "request",
+      "response"
+    ],
+    "disk": [
+      "disk",
+      "storage",
+      "no space"
+    ]
+  }
+}
